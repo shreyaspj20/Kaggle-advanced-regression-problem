@@ -1,2 +1,2 @@
 # Kaggle-advanced-regression-problem
-EDA along with hyperparameter tuning and modeling on house price dataset
+How to score 0.13332 in the sales prediction problem
